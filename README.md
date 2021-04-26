@@ -1,4 +1,4 @@
-# BAGUETTE: Best analysis of Article Given in a UnifiEd approach Through Time Evolution
+# BAGUETTE 🥖: Best analysis of Article Given in a UnifiEd approach Through Time Evolution
 
 ### Auteurs
 
