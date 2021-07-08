@@ -1,4 +1,4 @@
-beautifulsoup4
-numpy
-pdf2text
+PyPDF2
 pdfminer
+pandas
+scikit-learn
